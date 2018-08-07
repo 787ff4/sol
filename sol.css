@@ -4,5 +4,8 @@ body {
 #sol {
   width: 787px;
   height: 787px;
-  justify-content: center;
+}
+#MessageOne {
+  width: 400px;
+  height: 100px;
 }
