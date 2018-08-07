@@ -1,11 +1,31 @@
 body {
-  background-color: black;
+  background-image: url("inside.jpg");
 }
 #sol {
   width: 787px;
   height: 787px;
 }
-#MessageOne {
+.encoded {
   width: 400px;
   height: 100px;
+  margin-top: 100px;
+}
+.encoded2{
+  width:400px;
+  height:200px;
+  margin-top: 100px;
+}
+.center {
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+}
+.text {
+  font-size: 22px;
+  color: white;
+  margin-top: 50px;
+}
+.cent {
+  text-align: center;
 }
