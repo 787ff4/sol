@@ -1,0 +1,8 @@
+body {
+  background-color: black;
+}
+#sol {
+  width: 787px;
+  height: 787px;
+  justify-content: center;
+}
